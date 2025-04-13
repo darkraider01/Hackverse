@@ -4,10 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
-  "homepage": "https://darkraider01.github.io/Hackverse",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -15,8 +13,7 @@
     "three": "^0.161.0"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
-    "gsap": "^3.12.5",
-    "vite": "^5.2.0"
+    "vite": "^5.2.0",
+    "gsap": "^3.12.5"
   }
 }
